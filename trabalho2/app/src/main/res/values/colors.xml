@@ -1,0 +1,9 @@
+<resources>
+    <color name="background_color">#121212</color>
+    <color name="button_color">#3E3E3E</color>
+    <color name="button_operator_color">#FF5722</color>
+    <color name="button_special_color">#1E88E5</color>
+    <color name="button_clear_color">#FF4081</color>
+    <color name="button_equal_color">#00C853</color>
+    <color name="text_color">#FFFFFF</color>
+</resources>

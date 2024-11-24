@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="CalcButtonOperator">
+        <item name="android:background">@drawable/rounded_button_operator</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="CalcButtonSpecial">
+        <item name="android:background">@drawable/rounded_button_special</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="CalcButtonClear">
+        <item name="android:background">@drawable/rounded_button_clear</item>
+        <item name="android:textColor">#FF5722</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="CalcButtonEqual">
+        <item name="android:background">@drawable/rounded_button_equal</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
